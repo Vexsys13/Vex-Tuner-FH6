@@ -30,11 +30,13 @@ INSTRUCTIONS
 
 - Download the compiled .exe from the GitHub Releases https://github.com/Vexsys13/Vex-Tuner-FH6/releases/tag/V2.0
 
+-Make your own API key to use by going to https://aistudio.google.com/app/api-keys
 
+***⚠️!!! Important Security Note: Never publish, share, or commit your API keys to public repositories or front-end code !!!⚠️***
 
 2. How to Use
 
-- Enter Credentials: Type or paste your Gemini API key into the License Key field on the left panel.
+- Enter Credentials: Type or paste your Gemini API key into the License/Engine API key field on the left panel or ctrl+V to paste.
 
 - Select Vehicle: Choose a car brand and model from the dropdown menus, or select Other / Custom to type your own vehicle name.
 
