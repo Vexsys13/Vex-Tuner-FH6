@@ -28,7 +28,7 @@ INSTRUCTIONS
 
 - You will need a valid Gemini API key to power the tuning engine. You can enter it directly into the application interface.
 
-- Download the compiled .exe from the GitHub Releases section below.
+- Download the compiled .exe from the GitHub Releases https://github.com/Vexsys13/Vex-Tuner-FH6/releases/tag/V2.0
 
 
 
